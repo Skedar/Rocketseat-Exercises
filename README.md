@@ -1,2 +1,3 @@
 # Rocketseat Exercises
- All the exercises of Rocketseat
+ All the exercises of Rocketseat <3
+ >
